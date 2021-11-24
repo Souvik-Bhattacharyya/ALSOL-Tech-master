@@ -65,7 +65,7 @@ textarea:active, input:active, textarea:focus, input:focus {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #0D98D5;
+    background: #187DC1;
     border-radius: 20px
 }
 
@@ -100,7 +100,7 @@ a {
     bottom: 20px;
     right: 30px;
     color: #f1f1f1;
-    background-color: #0D98D5;
+    background-color: #187DC1;
     font-weight: 300;
     font-size: 14px;
     border-radius: 100px;
@@ -233,7 +233,7 @@ a {
 /* ===================Navbar */
 
 .navbar-light .navbar-toggler {
-    border-color: #0D98D5
+    border-color: #187DC1
 }
 
 .navbar-light .navbar-toggler:active, .navbar-light .navbar-toggler:focus {
@@ -247,7 +247,7 @@ a {
 
 .navbar-toggler i {
     font-size: 30px!important;
-    color: #0D98D5!important
+    color: #187DC1!important
 }
 
 #nav-container {
@@ -352,17 +352,17 @@ a {
         margin-top: 20px
     }
     .navbar-nav .nav-item .nav-link.active {
-        color: #0D98D5!important;
-        border-left: 4px solid #0D98D5;
-        border-right: 4px solid #0D98D5;
+        color: #187DC1!important;
+        border-left: 4px solid #187DC1;
+        border-right: 4px solid #187DC1;
         border-bottom: 3px solid transparent!important
     }
     .navbar-nav .nav-item:hover .nav-link {
         border-bottom: 3px solid transparent!important;
         border-radius: 0;
-        color: #0D98D5!important;
-        border-left: 4px solid #0D98D5;
-        border-right: 4px solid #0D98D5
+        color: #187DC1!important;
+        border-left: 4px solid #187DC1;
+        border-right: 4px solid #187DC1
     }
     .navbar-nav .dropend {
         display: none
@@ -394,7 +394,7 @@ a {
 }
 
 .dropdown-menu a {
-    color: #0D98D5!important
+    color: #187DC1!important
 }
 
 .dropdown-menu li {
@@ -406,12 +406,12 @@ a {
 }
 
 .dropdown-menu li:hover a {
-    background-color: #0D98D5;
+    background-color: #187DC1;
     color: #fff!important
 }
 
 .dropdown-menu li:active a {
-    background-color: #0D98D5;
+    background-color: #187DC1;
     color: #fff!important
 }
 
@@ -452,12 +452,12 @@ a {
 }
 
 .nav-cont .nav-item .nav-link.active {
-    color: #0D98D5!important;
-    border-bottom: 3px solid #0D98D5
+    color: #187DC1!important;
+    border-bottom: 3px solid #187DC1
 }
 
 .nav-cont .nav-item:hover .nav-link {
-    color: #0D98D5
+    color: #187DC1
 }
 
 .navbar-nav {
@@ -483,19 +483,19 @@ a {
 }
 
 .navbar-nav .nav-item .nav-link.active {
-    color: #0D98D5!important;
-    border-bottom: 3px solid #0D98D5
+    color: #00B9F0!important;
+    border-bottom: 3px solid #00B9F0
 }
 
 .navbar-nav .nav-item:hover .nav-link {
-    border-bottom: 3px solid #0D98D5;
+    border-bottom: 3px solid #187DC1;
     border-radius: 0;
     color: #fff
 }
 
 .nav-bag {
     background: #ffffffcc;
-    border-bottom: 2px solid #0D98D5;
+    border-bottom: 2px solid #187DC1;
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px)
 }
@@ -649,12 +649,12 @@ a {
     font-weight: 900;
     font-family: 'Poppins', sans-serif;
     letter-spacing: 5px;
-    filter: drop-shadow(5px 5px 0px #0D98D5);
+    filter: drop-shadow(5px 5px 0px #187DC1);
     color: #ffff
 }
 
 .box .card i {
-    color: #0D98D5
+    color: #187DC1
 }
 
 .box p {
@@ -685,7 +685,7 @@ a {
     left: 50%;
     height: 3px;
     width: 10%;
-    background: #0D98D5
+    background: #187DC1
 }
 
 .searvice-box-para {
@@ -796,7 +796,7 @@ a {
     left: 0;
     height: 90%;
     width: 3px;
-    background: #0D98D5
+    background: #187DC1
 }
 
 .Facility-text .lead {
@@ -822,7 +822,7 @@ a {
 }
 
 .progress .bg-warning {
-    background-color: #0D98D5!important
+    background-color: #187DC1!important
 }
 
 .progress {
@@ -881,7 +881,7 @@ a {
     left: 0;
     height: 80%;
     width: 3px;
-    background: #0D98D5
+    background: #187DC1
 }
 
 .contact-head .contact-p {
@@ -1284,7 +1284,7 @@ a {
 }
 
 .footer-icon .btn-footer {
-    color: #0D98D5;
+    color: #187DC1;
     font-size: 40px;
     border: transparent;
     cursor: pointer;
